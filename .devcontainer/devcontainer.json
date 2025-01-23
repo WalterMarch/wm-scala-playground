@@ -1,5 +1,5 @@
 {
-	"name": "wm-prognb-scala-2025",
+	"name": "wm-scala-playground",
 	"build": {
 		"dockerfile": "Dockerfile"
 	},
